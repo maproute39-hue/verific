@@ -8,7 +8,7 @@
   },
   "include": [
     "src/**/*.ts"
-  ],
+, "src/app/services/excel-export.service.ts.bak3", "src/app/services/excel-export.service.ts.bak"  ],
   "exclude": [
     "src/**/*.spec.ts"
   ]
